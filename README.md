@@ -2,8 +2,8 @@ Gomoku
 ==========
 A GUI and a weak AI
 ## Contributors
-GUI 主要是 TRY dalao 写的
-辣鸡人工智障是我写的
+* GUI 主要是 TRY dalao 写的
+* 辣鸡人工智障是我写的
 ## Main Features
 ### Main Menu
 打开程序，即进入 Menu 界面。在这个界面中可以点击 Start the Game 和 Play white with AI。点击其中任一者，则进入五子棋游戏界面。若选择前者，则可由两名玩家对战；若选择后者，则可以开始血虐人工智障。
